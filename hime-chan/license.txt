@@ -1,0 +1,5 @@
+Copyright 2024 Andrew Lonergan
+
+All rights reserved.
+
+license.txt
